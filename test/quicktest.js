@@ -47,7 +47,7 @@ pdf_page_count.count(file, function(resp){
 	}
 	
 	
-	if(resp.data == 1) console.log("Yayy, test with one page, given through a web url works!");
+	if(resp.data == 1) console.log("Yayy, test with one page, given raw data works!");
 	else console.log("Oh no..tool says the PDF has " + resp.data + " pages, but it should say it has one page!");
 });
 
