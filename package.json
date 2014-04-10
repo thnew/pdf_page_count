@@ -1,6 +1,6 @@
 {
 	"name":			"pdf_page_count",
-	"version":		"1.0.5",
+	"version":		"1.0.6",
 	"description":	"Takes a PDF-document and returns the amount of pages in it",
 	"engine":		"node >= 0.6.0",
 	"main":			"./lib/pdf_page_count.js",

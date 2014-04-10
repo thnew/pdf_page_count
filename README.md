@@ -14,7 +14,7 @@ If you want to use it with linux, you may replace the ghostscript-executable wit
 Or you install ghostscript for linux.
 http://www.ghostscript.com/
 
-here is one simple example how to use it:
+here are some examples how to use it:
 
 ```javascript
 // test with pdf with one page
