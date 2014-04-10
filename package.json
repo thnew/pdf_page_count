@@ -1,11 +1,16 @@
 {
 	"name":			"pdf_page_count",
-	"version":		"1.0.3",
+	"version":		"1.0.4",
 	"description":	"Takes a PDF-document and returns the amount of pages in it",
 	"engine":		"node >= 0.6.0",
 	"main":			"./lib/pdfPageCount.js",
 	"devDependencies": {
         "tmp":	"0.0.23"
+	},
+	"repository" :
+	{ 
+		"type" :	"git",
+		"url" :		"git@github.com:thnew/pdf_page_count.git"
 	},
 	"homepage": "https://github.com/thnew/pdf_page_count"
 }
